@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjeet0305kanojia" alt="surjeet0305kanojia" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **surjeet0305kanojia@gmail.com**
 
